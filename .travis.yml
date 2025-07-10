@@ -1,0 +1,12 @@
+language: java
+jdk:
+  - openjdk17
+
+os:
+  - linux
+  
+vm:
+  size: [large]
+  
+script:
+  - echo 'test'
