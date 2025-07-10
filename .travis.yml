@@ -5,8 +5,5 @@ jdk:
 os:
   - linux
   
-vm:
-  size: [large]
-  
 script:
   - echo 'test'
